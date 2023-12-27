@@ -1,23 +1,17 @@
-# frontend
+# 2023 캡스톤 프로젝트 백업
 
-## Project setup
+## 프로젝트 셋팅
 ```
 npm install
 ```
+### 혹은
+```
+npm i
+```
 
-### Compiles and hot-reloads for development
+### 실행
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
